@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akhi4009.github.io/csb-r6ve1j/static/css/main.e4e163a1.chunk.css",
+    "main.js": "https://akhi4009.github.io/csb-r6ve1j/static/js/main.7c3672d5.chunk.js",
+    "main.js.map": "https://akhi4009.github.io/csb-r6ve1j/static/js/main.7c3672d5.chunk.js.map",
+    "runtime-main.js": "https://akhi4009.github.io/csb-r6ve1j/static/js/runtime-main.91481a5a.js",
+    "runtime-main.js.map": "https://akhi4009.github.io/csb-r6ve1j/static/js/runtime-main.91481a5a.js.map",
+    "static/js/2.81fa76c5.chunk.js": "https://akhi4009.github.io/csb-r6ve1j/static/js/2.81fa76c5.chunk.js",
+    "static/js/2.81fa76c5.chunk.js.map": "https://akhi4009.github.io/csb-r6ve1j/static/js/2.81fa76c5.chunk.js.map",
+    "index.html": "https://akhi4009.github.io/csb-r6ve1j/index.html",
+    "static/css/main.e4e163a1.chunk.css.map": "https://akhi4009.github.io/csb-r6ve1j/static/css/main.e4e163a1.chunk.css.map",
+    "static/js/2.81fa76c5.chunk.js.LICENSE.txt": "https://akhi4009.github.io/csb-r6ve1j/static/js/2.81fa76c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91481a5a.js",
+    "static/js/2.81fa76c5.chunk.js",
+    "static/css/main.e4e163a1.chunk.css",
+    "static/js/main.7c3672d5.chunk.js"
+  ]
+}
